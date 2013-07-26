@@ -1,0 +1,8 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =6
+let g:netrw_dirhist_1='/home/ewald/Books/gr7-9-workbooks/grade-9/LL'
+let g:netrw_dirhist_2='/home/ewald/programming/cnxml-pyformer'
+let g:netrw_dirhist_3='/home/ewald/programming'
+let g:netrw_dirhist_4='/home/ewald/programming/cnxml-pyformer'
+let g:netrw_dirhist_5='/home/ewald/Downloads/thunderboltkids/tcex'
+let g:netrw_dirhist_6='/home/ewald/programming/monassis-buildout/src/monassis.ploneserver/monassis/ploneserver'
