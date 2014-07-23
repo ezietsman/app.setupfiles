@@ -6,7 +6,7 @@ syntax enable
     if has('gui_running')
         set background=light
         colorscheme solarized
-        set guifont=Inconsolata\ Medium\ 11
+        set guifont=DejaVu\ Sans\ Mono\ 9
     endif
 " Wrapping and tabs.
 set ts=4 sw=4 sta et sts=4 ai
