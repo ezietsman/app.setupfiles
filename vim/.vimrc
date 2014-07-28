@@ -47,3 +47,4 @@ au BufRead,BufNewFile *.cnxml set filetype=xml
 au BufRead,BufNewFile *.cnxmlplus set filetype=xml
 " run flake every time a python file is written
 autocmd BufWritePost *.py call Flake8()
+set backspace=2 " make backspace work like most other apps
