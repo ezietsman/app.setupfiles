@@ -13,7 +13,6 @@ Plugin 'mattn/emmet-vim' " zencoding
 Plugin 'git@github.com:majutsushi/tagbar.git'
 Plugin 'git@github.com:hdima/python-syntax.git'
 Plugin 'hynek/vim-python-pep8-indent'
-Plugin 'chriskempson/base16-vim'
 Plugin 'git@github.com:morhetz/gruvbox.git'
 Bundle 'Lokaltog/powerline', {'rtp': 'powerline/bindings/vim/'}
 Bundle 'tpope/vim-fugitive'
